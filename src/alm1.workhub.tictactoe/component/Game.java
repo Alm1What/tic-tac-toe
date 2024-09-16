@@ -1,5 +1,7 @@
-package alm1.workhub.tictactoe;
+package alm1.workhub.tictactoe.component;
 
+
+import alm1.workhub.tictactoe.model.GameTable;
 
 import java.util.Random;
 

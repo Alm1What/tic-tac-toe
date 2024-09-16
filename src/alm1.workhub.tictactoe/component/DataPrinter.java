@@ -1,4 +1,6 @@
-package alm1.workhub.tictactoe;
+package alm1.workhub.tictactoe.component;
+
+import alm1.workhub.tictactoe.model.GameTable;
 
 public class DataPrinter {
     public void printMappingTable() {
