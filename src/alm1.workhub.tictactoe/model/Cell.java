@@ -18,4 +18,12 @@ public class Cell {
         this.row = row;
         this.col = col;
     }
+
+    @Override
+    public String toString() {
+        return "Cell{" +
+                "row=" + row +
+                ", col=" + col +
+                '}';
+    }
 }
